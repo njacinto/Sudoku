@@ -1,4 +1,0 @@
--------------------------------------------------------------------------------
-Test set: games.sudoku.strategy.DefaultSudokuStrategyTest
--------------------------------------------------------------------------------
-Tests run: 18, Failures: 0, Errors: 0, Skipped: 5, Time elapsed: 0.123 sec
