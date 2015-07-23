@@ -1,0 +1,8 @@
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/model/DefaultBoardTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/model/SolutionErrorsTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/strategy/DefaultSudokuStrategyTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/model/BoardTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/model/BoardValueTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/strategy/NineByNineSudokuStrategyTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/dao/LocalBoardDAOTest.java
+/home/nuno/projects/Sudoku/sudoku/src/test/java/games/sudoku/NineByNineBoardUtil.java

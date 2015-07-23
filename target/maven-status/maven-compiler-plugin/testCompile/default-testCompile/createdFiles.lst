@@ -1,0 +1,8 @@
+games/sudoku/model/BoardTest.class
+games/sudoku/model/SolutionErrorsTest.class
+games/sudoku/NineByNineBoardUtil.class
+games/sudoku/strategy/NineByNineSudokuStrategyTest.class
+games/sudoku/strategy/DefaultSudokuStrategyTest.class
+games/sudoku/dao/LocalBoardDAOTest.class
+games/sudoku/model/DefaultBoardTest.class
+games/sudoku/model/BoardValueTest.class
